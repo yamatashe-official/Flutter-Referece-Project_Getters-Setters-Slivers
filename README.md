@@ -1,4 +1,4 @@
-# disneycodechallenge_yahffajagrup
+<!-- # disneycodechallenge_yahffajagrup
 
 A new Flutter project.
 
@@ -13,4 +13,10 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference. -->
+
+# Flutter Project Reference - Getters, Setters, Slivers
+
+This is mainly a project reference on how to use getters, setters and slivers.
+
+Refer back to this as needed.
